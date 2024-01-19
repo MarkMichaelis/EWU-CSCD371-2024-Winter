@@ -3,7 +3,7 @@
 ## Overview
 
 In this assignment, we are looking to become familiar with Git, GitHub, Pull-Requests (PR), and the basics of working with Visual Studio including creating new projects, running, debugging, and writing unit tests.
-
+asdfsadf
 ## Reading
 
 Read [Essential C#](https://EssentialCSharp.com) - Chapters 1-3.  This will take several hours! Much of this content is similar to Java so feel free to speed-read content you are already familiar with.
